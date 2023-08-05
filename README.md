@@ -16,6 +16,7 @@
 - [Microsoft supports right to repair bill in Washington; what's the catch?](https://youtu.be/MztKFKPYfp4)
 - [My problem with the cult of Apple.](https://youtu.be/_hYHwkIuEMo)
 - [The horrible truth about Apple's repeated engineering failures.](https://youtu.be/AUaJ8pDlxi8)
+- [Apple's most ANTI-repair move yet - I dare someone to justify this!](https://youtu.be/RIFQC8iA65k)
 
 # People. Ian Cuttress
 - [What Apple Got Wrong with Right to Repair](https://youtu.be/v8_Z-i6mxS0)
