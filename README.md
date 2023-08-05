@@ -15,6 +15,7 @@
 - [Debunking automaker propaganda; why HR906 right to repair bill is a GOOD THING!](https://youtu.be/lqRRDZggIx4)
 - [Microsoft supports right to repair bill in Washington; what's the catch?](https://youtu.be/MztKFKPYfp4)
 - [My problem with the cult of Apple.](https://youtu.be/_hYHwkIuEMo)
+- [The horrible truth about Apple's repeated engineering failures.](https://youtu.be/AUaJ8pDlxi8)
 
 # People. Ian Cuttress
 - [What Apple Got Wrong with Right to Repair](https://youtu.be/v8_Z-i6mxS0)
