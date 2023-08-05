@@ -11,6 +11,7 @@
 - [Apple repairs are expensive, why?](https://youtu.be/j_K42D3dKrA)
 - [Paul gives a mechanic's take on right to repair testimony](https://youtu.be/uVAYYV9WDZg)
 - [Washington Right to Repair hearing - SB 5799](https://youtu.be/FBR8IvXVwsE)
+- [Unplugging the battery BRICKS this device; you MUST go back to the manufacturer](https://youtu.be/KGzDCnjgUbc)
 
 # People. Ian Cuttress
 - [What Apple Got Wrong with Right to Repair](https://youtu.be/v8_Z-i6mxS0)
